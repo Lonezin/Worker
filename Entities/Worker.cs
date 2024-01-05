@@ -1,4 +1,4 @@
-using Worker.Entities.Enums;
+using Worker_.Entities.Enums;
 
 namespace Worker_.Entities
 {

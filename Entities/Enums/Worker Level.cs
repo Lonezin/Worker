@@ -1,6 +1,6 @@
-namespace Worker.Entities.Enums
+namespace Worker_.Entities.Enums
 {
-    public enum WorkerLevel : int
+    public enum WorkerLevel 
     {
         JUNIOR = 0, 
         MID_SENIOR = 1,
