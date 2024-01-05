@@ -1,4 +1,4 @@
-namespace Worker.Entities
+namespace Worker_.Entities
 {
     public class HourContract
     {

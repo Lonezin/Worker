@@ -1,6 +1,6 @@
 using Worker.Entities.Enums;
 
-namespace Worker.Entities
+namespace Worker_.Entities
 {
     public class Worker
     {
